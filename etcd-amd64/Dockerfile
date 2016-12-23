@@ -1,0 +1,1 @@
+FROM gcr.iogoogle_containersetcd-amd64:2.2.5
